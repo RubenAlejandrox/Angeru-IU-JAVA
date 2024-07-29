@@ -16,7 +16,7 @@ public class Interfaz
      */
     public static void main(String[] args)
     {
-        // TODO code application logic here
+       
         VtnPrincipal abrir = new VtnPrincipal(); 
         abrir.setVisible(true);
         
